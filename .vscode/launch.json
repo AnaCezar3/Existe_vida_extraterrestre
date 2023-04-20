@@ -7,8 +7,8 @@
         {
             "type": "pwa-chrome",
             "request": "launch",
-            "name": "Open pagina_cinco.html",
-            "file": "c:\\Users\\Etec\\Desktop\\Existe_vida_extraterrestre\\pagina_cinco.html"
+            "name": "Open pagina_tres.html",
+            "file": "c:\\Users\\Etec\\Desktop\\Existe_vida_extraterrestre\\pagina_tres.html"
         }
     ]
 }
